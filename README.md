@@ -29,11 +29,3 @@ An exhaustive exploratory data analysis (EDA), anomaly detection, principal comp
 ```bash
 jupyter notebook projet.ipynb
 ```
-
-## CV Bullet Points
-- Performed comprehensive EDA, anomaly detection, and regression modeling on multi-category retail sales datasets achieving high predictive fit ($R^2 = 0.94$ for sweaters, $R^2 = 0.83$ for dresses).
-- Implemented Principal Component Analysis (PCA) from scratch via eigenvalue decomposition and Kaiser rule component selection.
-- Calculated Pearson correlation matrices and evaluated regression performance using MSE, RMSE, and $R^2$ metrics.
-
-## Claims to Avoid
-- Do not claim real-time enterprise retail deployment or commercial pipeline integration.
